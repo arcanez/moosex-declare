@@ -9,7 +9,6 @@ requires 'Devel::Declare' => '0.005011';
 requires 'namespace::clean' => '0.11';
 requires 'namespace::autoclean' => '0.05';
 requires 'Moose' => '0.89';
-requires 'MooseX::AttributeHelpers';
 requires 'MooseX::Method::Signatures' => '0.24';
 requires 'MooseX::Role::Parameterized' => '0.12';
 requires 'MooseX::Types::Moose';
